@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+## Academics
 
-You can use the [editor on GitHub](https://github.com/RobertNugent/BIO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+-Masters in Information Technology
+-Advanced Programming Graduate
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Technology proficiency
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Languages that I can use:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+-Python   -HTML/CSS
+-Java     -JavaScript
+-C#/C++   -JQuery
+-SQL      -PHP
 ```
+## Job History
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Support.com, Remote
+IT Technician					           					10/2017 – Present
+•	Properly document all customer interactions
+•	Resolve customer requests by investigating problems, developing solutions and recommend additional products and/or services relevant to an assessment of the customer needs.
+•	Communicate technical directions over the phone to inexperienced computer users
+•	Home network setup and repair
+Utilize:  MS Office, Einstein 360, Avaya, OneCTI, ACSR
 
-### Jekyll Themes
+Modis (Contract to TVA), Chattanooga, TN
+SAFe Scrum Master									09/2015 – 03/2016
+•	Facilitate meetings with the Team
+•	Provided Quality checks and Beta test product features
+•	Provided troubleshooting in the code as deadlines approached 
+•	Guided the Team and Product Owner to write and split user stories
+•	Guided Stakeholders and Product Owner to create product visions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobertNugent/BIO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Utilized:  MS Project, Visual Studio, Team Foundation Server, Outlook, SharePoint, Visio, MS Access, MS Office, Agile, Scrum, and SAFe, PHP, SQL, C#, C++, .NET
 
-### Support or Contact
+Intergen (Contracted to Gulfstream), Savannah, GA
+IT Project Manager									08/2014 – 04/2015
+•	Managed the project for migration from LiveLink to SharePoint
+•	Utilized SAFe Methods. 
+•	Manage schedule, budget, and resources on the project.
+•	Managed the flow of information from 900 external vendors and satellite Gulfstream locations.
+•	Maintained steering committee and managed executive expectations.
+•	Communicate status reports, completed tasks, and upcoming tasks to management
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Utilized:  Lotus Notes, HP PPMC (PMS), LiveLink, Outlook, SharePoint, Visio, MS Office, Agile
+
+¬General Dynamics (DoD Contractor), Ft. Huachuca, AZ
+Software Developer and Instructor    	            						2/2009 – 08/2014
+•	Upgraded servers, Virtual Environments upgrade/installs, and security token installs.
+•	Served on the DCGS-A (Intelligence System) control board as a voting member.
+•	Created software to track student records, critiques, and system errors for the school. 
+•	Instruct the Intelligence Analyst course teaching Analytical processes as well as intelligence software. 
+            
+Utilized:  MS Project, MS Access, SharePoint, Visio, Outlook, MS Office Suite, HTML, PHP, SQL, Java, C#, C++, .NET, DCGS-A, Remedy
+
+US Army (SGT), Mosul, Iraq
+Intelligence Analyst/ Developer							12/2007 - 12/2008
+•	Developed new analytic application to allow senior management to understand the impact of the mission through statistics and calculated risks.
+•	Establish a network for DCGS-A (Intelligence system) where it was not established before.
+•	Wrote the Standard Operating Procedures for Intelligence and Security unit systems.
+•	Provided software and database solutions for the military and other government agencies to include FBI, CIA, and Contractor systems.
+•	Conducted collection, analysis, and dissemination of intelligence of enemy activity in the area.
+•	Managed Contractor activity and security protocols
+
+Utilized: MS Project, MS Access, SharePoint, Visio, MS Office Suite, Visual Studio, Java, HTML, PHP, SQL, C#, C++, DCGS-A
+
+US Army (SGT), Bagdad, Iraq
+Intelligence Analyst 						                   		 07/2005-11/2006
+•	Intelligence Supervisor that oversee all collection, analysis, and dissemination of intelligence of enemy activity in the area.
+•	Led Intelligence operations that exposed corruption in the Iraqi Police and several insurgent networks.
+•	Upgraded the network that included video and network to the base from intelligence platforms.
+•	Created software that would increase visibility on the situation of the operation, through data collection and visual aids
+•	Conducted regular Quality checks on software, database, and network
+
+Utilized: MS Access, SharePoint, Visio, MS Office Suite, HTML, CSS, JavaScript, JQuery, PHP, SQL, C++, C#, .Net, Visual Studio
+	
+Walmart, Evansville, IN
+Asset Protection Manager								08/2002-01/2009
+• Six physical and network security upgrades for new software, CCTV, Alarms, Network
+• Tracked internal and external loss to include prosecution
+• Assisted law enforcement with investigations
+
+Utilized: MS Office Suite, CCTV, Security Equipment, Point of Sale System
+
+
+### Contact
+robert.nugent@live.com
+
+

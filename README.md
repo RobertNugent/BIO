@@ -48,7 +48,7 @@ IT Project Manager 08/2014 – 04/2015
 
 Utilized:  Lotus Notes, HP PPMC (PMS), LiveLink, Outlook, SharePoint, Visio, MS Office, Agile
 ```
-¬General Dynamics (DoD Contractor), Ft. Huachuca, AZ
+General Dynamics (DoD Contractor), Ft. Huachuca, AZ
 Software Developer and Instructor 2/2009 – 08/2014
 ```markdown
 •Upgraded servers, Virtual Environments upgrade/installs, and security token installs.

@@ -35,7 +35,7 @@ SAFe Scrum Master 09/2015 – 03/2016
 •Guided Stakeholders and Product Owner to create product visions
 
 Utilized:  MS Project, Visual Studio, Team Foundation Server, Outlook, SharePoint, Visio, MS Access, MS Office, Agile, Scrum, and SAFe, PHP, SQL, C#, C++, .NET
-
+```
 Intergen (Contracted to Gulfstream), Savannah, GA
 IT Project Manager 08/2014 – 04/2015
 ```markdown
@@ -47,7 +47,7 @@ IT Project Manager 08/2014 – 04/2015
 •Communicate status reports, completed tasks, and upcoming tasks to management
 
 Utilized:  Lotus Notes, HP PPMC (PMS), LiveLink, Outlook, SharePoint, Visio, MS Office, Agile
-
+```
 ¬General Dynamics (DoD Contractor), Ft. Huachuca, AZ
 Software Developer and Instructor 2/2009 – 08/2014
 ```markdown
